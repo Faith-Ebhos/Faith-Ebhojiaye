@@ -86,7 +86,7 @@ Hi! I’m a passionate and multidisciplinary tech professional with experience i
 
 ---
 
-## 🔍 Explore My Repositories
+## 🔍 Explore My Repositories  
 
 Browse through my projects to see live examples of data storytelling, interactive dashboards, ML models, and web apps. I’m actively seeking **collaborations, internships, and roles** in:
 
