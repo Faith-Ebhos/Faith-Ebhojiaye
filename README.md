@@ -80,7 +80,7 @@ Hi! I’m a passionate and multidisciplinary tech professional with experience i
 - ✅ **Azure Data Fundamentals (Modules 1–4)**
 - ✅ **Introduction to Databases (MS Access & SQL)**
 - ✅ **Data Analytics with Power BI**
-- ✅ **Data Visualization with Tableau**
+- ✅ **Data Visualisation with Tableau**
 - ✅ **Python for Data Analysis & Machine Learning**
 - ✅ **Web Development with React, JavaScript, MongoDB**
 
