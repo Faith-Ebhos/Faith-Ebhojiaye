@@ -9,7 +9,7 @@ Hi! I’m a passionate and multidisciplinary tech professional with experience i
 - **Business Analysis**: Requirement gathering, user stories, stakeholder communication
 - **Data Analytics**: Dashboard creation, trend analysis, forecasting
 - **Software Development**: Web application design using modern front-end and back-end stacks
-- **Office & Productivity Tools**: MS Excel (PivotTables, VLOOKUP, dashboards), PowerPoint
+- **Office & Productivity Tools**: MS Excel (PivotTables, VLOOKUP, dashboards), PowerPoint   
 
 ---
 
